@@ -9,6 +9,7 @@
     box-sizing: border-box;
 }
 
+/* css color styles */
 :root{
     --dark-cyan: hsl(185, 75%, 39%);
     --very-dark-blue: hsl(229, 23%, 23%);
@@ -26,6 +27,7 @@
     overflow: hidden;
     position: relative;
 }
+/* background images for top and bottom */
 
 .top-bg{
     position: absolute;
@@ -49,6 +51,8 @@
     right: -260px
 }
 
+/* card section styling */
+
 #card{
     background-color: #fff;
     height: 376px;
@@ -66,6 +70,7 @@
     border-radius: 20px 20px 0px 0px;
     z-index: 3;
 }
+/* profile-info section styling */
 
 .profile .pic{
     position: absolute;
@@ -118,6 +123,8 @@
     padding-top: 25px;
     text-align: center;
 }
+
+/* stats section styling */
 
 #stats .number{
     font-size: 18px;
