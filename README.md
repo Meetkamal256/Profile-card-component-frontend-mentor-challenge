@@ -5,15 +5,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Meetkamal256/Order-summary-component-frontend-mentor-challenge]
+- Live Site URL: [https://profile-card-component-frontend-mentor-challenge-chi.vercel.app/]
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flex box
-- CSS Grid
 - Desktop-first workflow
 
 ### What I learned
