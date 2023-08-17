@@ -129,3 +129,21 @@
 #stats p{
     color: var(--dark-gray);
 }
+
+/* Responsive */
+@media(max-width: 425px){
+    .top-bg{
+        height: 375px;
+        width: 375px;
+        top: -180px;
+        left: -140px;
+    }
+    
+    .bottom-bg{
+        height: 375px;
+        width: 375px;
+        bottom: -120px;
+        right: -185px
+
+    }
+}
